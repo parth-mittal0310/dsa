@@ -19,3 +19,7 @@ int main()
     }
     cout<<"largest number is::"<<largest;
 }
+
+int function (int a , int b){
+    return a+b ;
+}
